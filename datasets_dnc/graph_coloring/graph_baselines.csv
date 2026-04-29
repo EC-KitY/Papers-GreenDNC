@@ -1,0 +1,9 @@
+instance_name,nodes,edges,penalty_used,max_raw_possible,optimal_coloring
+games120.col,120,638,1000,638120,9
+myciel7.col,191,2360,1000,2360191,8
+miles1000.col,128,3216,1000,3216128,42
+miles1500.col,128,5198,1000,5198128,73
+mulsol.i.2.col,188,3885,1000,3885188,31
+queen8_12.col,96,1368,1000,1368096,14
+zeroin.i.1.col,211,4100,1000,4100211,49
+zeroin.i.2.col,211,3541,1000,3541211,30
