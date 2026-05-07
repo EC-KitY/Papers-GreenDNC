@@ -89,7 +89,8 @@ Once raw data is generated, use the Python scripts in the root directory to proc
 
 ## Recommended Workflow
 
-1. **Configure:** Modify the `.toml` files in `setups/` as needed, or use `config_maker.py` to generate the batch setups.
+0. **System Configuration:** Set up a computer with a gpu and a minimal linux installation (no cronjobs, AVs, UI, etc.)
+1. **Experimental Configuration:** Modify the `.toml` files in `setups/` as needed, or use `config_maker.py` to generate the batch setups.
 2. **Establish Baseline:** Run `scripts/measure_nothing.sh` to get the system energy baseline.
 3. **Run Experiments:** Use `scripts/batch_measure.sh` to collect raw data across your configurations.
 4. **Merge (Optional):** If combining multiple runs, use `merge_exps.py` to consolidate directories, followed by `scripts/clear_exps.sh`.
