@@ -1,6 +1,6 @@
 # Papers-GreenDNC
 
-This repository contains the code and experimental setup for the GreenDNC paper. It includes configuration files, measurement scripts to run experiments, and parsing utilities to transform raw system data into the final result tables presented in the paper.
+This repository contains the code and experimental setup for the GreenDNC paper ([link](https://link.springer.com/chapter/10.1007/978-3-032-36217-9_26)). It includes configuration files, measurement scripts to run experiments, and parsing utilities to transform raw system data into the final result tables presented in the paper.
 
 ## Repository Contents
 
